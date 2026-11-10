@@ -1,0 +1,15 @@
+.DS_Store
+.dart_tool/
+.idea/
+.tools/
+build/
+mobile/.flutter-plugins*
+mobile/.packages
+mobile/android/local.properties
+mobile/ios/Flutter/ephemeral/
+mobile/ios/Pods/
+mobile/ios/.symlinks/
+*.jks
+*.keystore
+.env
+
